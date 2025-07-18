@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQF_g0UUUV1qPQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgeRuTVHwAg-/0/1752854621024?e=1755734400&v=beta&t=AFqaF8ZPRLyfYFUZhBYAMWp-hkdQ3IAQR08ploGk8uE)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFQb7aK01X4sw/profile-displaybackgroundimage-shrink_350_1400/B4DZgeSJRXHAAc-/0/1752854731154?e=1755734400&v=beta&t=qNZnxan4qVOgJT3Jsln7zxglyPoT_TlT9y_45Piayy0)
 
 <h1 align="center">Hi 👋, I'm Çelik DAYI</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
