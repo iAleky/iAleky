@@ -5,20 +5,20 @@
 
 <p align="center">
   🧠 Self-taught & hungry to learn<br>
-  🚀 Currently building real projects at <a href="https://mantraxo.com" target="_blank"><strong>Mantraxo</strong></a><br>
-  ✍️ Sharing my journey at <a href="https://mantraxo.com/blogs" target="_blank">mantraxo.com/blogs</a><br>
-  📫 Contact me at <a href="mailto:support@mantraxo.com">support@mantraxo.com</a>
+  💻 Currently working on small web projects to sharpen my skills<br>
+  ✍️ Sharing what I learn through mini blogs & code snippets<br>
+  📫 Reach me: <a href="mailto:support@mantraxo.com">support@mantraxo.com</a>
 </p>
 
 ---
 
 ### 💡 About Me
 
-I'm a **beginner frontend developer** based in Turkey — just getting started, but moving fast! Every day I learn something new and put it into practice right away. My main goal is to turn curiosity into real-world skills and become a confident developer through hands-on experience.
+I'm a **beginner frontend developer** based in Turkey — just getting started, but moving fast! Every day I learn something new and put it into practice right away. My goal is to turn curiosity into real-world skills and become a confident developer through hands-on experience.
 
 - 🔥 Currently learning **HTML**, **CSS**, **JavaScript**, **React** and UI design basics  
 - 🧩 I enjoy turning simple ideas into functional, clean designs  
-- 📘 Always experimenting, building, breaking, and improving  
+- ⚒️ Building real mini-projects to improve every day  
 
 ---
 
