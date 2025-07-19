@@ -7,7 +7,7 @@
   🧠 Self-taught & hungry to learn<br>
   💻 Currently working on small web projects to sharpen my skills<br>
   ✍️ Sharing what I learn through mini blogs & code snippets<br>
-  📫 Reach me: <a href="mailto:support@mantraxo.com">support@mantraxo.com</a>
+  📫 Reach me: <a href="mailto:celikdayi@gmail.com">celikdayi@gmail.com</a>
 </p>
 
 ---
